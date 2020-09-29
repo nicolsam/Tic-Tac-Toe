@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+#content {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#game {
+    width: 600px;
+    height: 600px;
+    background-color: #000;
+    padding: 10px 5px;
+}
+#line-1,#line-2,#line-3 {
+    padding: 0px 5px;
+}
+.quadrado-line1,.quadrado-line2,.quadrado-line3  {
+    display: inline-block;
+    width: 190px;
+    height: 190px;
+    background-color: #fff;
+
+}
