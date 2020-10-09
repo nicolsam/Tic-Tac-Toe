@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-#content {
+#content-game {
     height: 100vh;
     display: flex;
     justify-content: center;
